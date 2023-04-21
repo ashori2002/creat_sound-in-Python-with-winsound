@@ -5,7 +5,3 @@ def creat_sound ():
     
     while True:
         ws.Beep(rn(50 , 2000) , rn(200 , 1000))
-
-
-   
-    
